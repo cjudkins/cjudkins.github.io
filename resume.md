@@ -1,10 +1,6 @@
----
-layout: page
-title: Résumé
-permalink: /resume/
----
+# Chris Judkins
 
-Experienced Visual Effects Artist and mentor, specialized in:
+*Experienced Visual Effects Artist and mentor, specialized in:*
 
 - **Realtime VFX authoring**
 	- I'm well versed in the entire asset pipeline from initial setup to final optimization.
@@ -17,11 +13,9 @@ Experienced Visual Effects Artist and mentor, specialized in:
 - **Cross-Discipline Collaboration and Alignment**
 	- I work with animators, designers, engineers, and sound designers to find the best approach to a problem. I've also established project-wide working agreements to make collaboration as seamless as possible.
 
-### Work History
+## Work History
 
-#### Riot Games - Senior Visual Effects Artist
-
-*2022 - 2024*
+**Senior Visual Effects Artist** @ Riot Games *(2022 - 2024)*
 
 Unannounced Projects/R&D
 
