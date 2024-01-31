@@ -40,10 +40,10 @@ jobs:
           draft: false
           prerelease: false
       - uses: actions/upload-release-asset@v1
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          with:
-            upload_url: ${{ steps.create_release.outputs.upload_url }}
-            asset_path: ./cjudkins-resume.pdf
-            asset_name: cjudkins-resume.pdf
-            asset_content_type: application/pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./cjudkins-resume.pdf
+          asset_name: cjudkins-resume.pdf
+          asset_content_type: application/pdf
