@@ -1,9 +1,7 @@
 ---
 title: Resume
-date created: 2024-01-29 15:17
-date modified: 2024-01-30 14:42
-aliases:
-  - Resume
+layout: page
+permalink: /resume/
 ---
 
 Experienced Visual Effects Artist and mentor, specialized in:
