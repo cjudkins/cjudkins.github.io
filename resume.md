@@ -6,6 +6,8 @@ aliases:
   - Resume
 ---
 
+Experienced Visual Effects Artist and mentor, specialized in:
+
 - **Realtime VFX authoring**
 	- I'm well versed in the entire asset pipeline from initial setup to final optimization.
 - **Pipeline and Workflow Planning**
