@@ -1,6 +1,7 @@
 ---
-title: Resume
 layout: page
+title: Resume
+permalink: /resume/
 ---
 
 Experienced Visual Effects Artist and mentor, specialized in:
