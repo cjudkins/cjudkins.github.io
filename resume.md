@@ -1,4 +1,6 @@
-# Chris Judkins
+# Résumé
+
+## Chris Judkins
 
 *Experienced Visual Effects Artist and mentor, specialized in:*
 
