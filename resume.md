@@ -19,18 +19,16 @@ permalink: /resume/
 - **Cross-Discipline Collaboration and Alignment**
 	- I work with animators, designers, engineers, and sound designers to find the best approach to a problem. I've also established project-wide working agreements to make collaboration as seamless as possible.
 
-## Work History
+## Career History
 
-**Senior Visual Effects Artist** @ Riot Games *(2022 - 2024)*
+**Senior Visual Effects Artist** @ [Riot Games](https://www.riotgames.com) *(2022 - 2024)*
 
 Unannounced Projects/R&D
 
 - Helped game teams understand how to best leverage bleeding-edge VFX techniques in Unreal Engine 5  
 - Spoke with various teams to identify pain points in their pipelines and workflows, and formulated plans of action to address them
 
-#### Blizzard Entertainment - Senior Visual Effects Artist
-
-*2019 - 2022*
+**Senior Visual Effects Artist** @ [Blizzard Entertainment](https://www.blizzard.com) *(2019 - 2022)*
 
 [Diablo IV](https://youtu.be/7RdDpqCmjb4?si=QF0jTpBrPsPBNQ4v)
 
@@ -40,11 +38,9 @@ Unannounced Projects/R&D
 - Worked closely with tech artists and rendering/engine engineers to ensure that our work was performant  
 - Collaborated with, mentored, and onboarded team members
 
-#### Avalanche Studios - Visual Effects Artist
+**Visual Effects Artist** @ [Avalanche Studios](https://www.avalanchestudios.com) *(2017 - 2019)*
 
-*2017 - 2019*
-
-- Just Cause 4
+[Just Cause 4](https://www.youtube.com/watch?v=Lfek7Kcq16g)
 
 As sole VFX artist on Just Cause 4, I was reponsible for authoring, implementing, optimizing, and troubleshooting effects across the game. During production we migrated to a completely new GPU-based particle backend, so I was heavily involved in mitigating risks and helping make sure that the transition was as frictionless as possible.  
 
@@ -55,12 +51,9 @@ Example of work tasks:
 - Migrated the VFX texture authoring pipeline from 3ds max/FumeFX to Houdini  
 - Optimized effects to within strict processing and memory budgets while retaining visuals at extreme view distances for multiple platformsl
 
-#### EA DICE - Visual Effects Artist
+**Visual Effects Artist** @ [EA DICE](https://www.dice.se) *(2015 - 2017)*
 
-*2014 - 2017*
-
-- Battlefield 1
-- Star Wars: Battlefront
+[Battlefield 1](https://www.youtube.com/watch?v=c7nRTF2SowQ) | [Star Wars: Battlefront](https://www.youtube.com/watch?v=J48gd0GZGWk)
 
 Example of work tasks:  
 
@@ -70,8 +63,8 @@ Example of work tasks:
 - Scripted tools and automated workflows with Python  
 - Optimized effects within strict processing and memory budgets while retaining identical visuals for multiple platforms
 
-### Education
+## Education
 
-#### Futuregames - Realtime Art & 3D Graphics
+### Futuregames - Realtime Art & 3D Graphics
 
-#### Nackademin Yrkeshogskola - Digital Art
+### Nackademin Yrkeshogskola - Digital Art
