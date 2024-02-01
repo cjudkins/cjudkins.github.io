@@ -12,8 +12,8 @@ permalink: /resume/
 
 - **Realtime VFX authoring**
 	- I'm well versed in the entire asset pipeline from initial setup to final optimization.
-- **Pipeline and Workflow Planning**
-	- I've worked closely with tech artists and tools engineers to plan and develop VFX pipelines that allow artists to spend more time making art and less time troubleshooting it
+- **Pipeline, Workflow, and Scope Planning**
+	- I've worked closely with tech artists and tools engineers to plan and develop VFX pipelines that allow artists to spend more time making art and less time troubleshooting it. I've aligned these efforts with producers and directors to inform long-term scoping and estimates.
 - **Visual Development**
 	- I've collaborated with art directors to find and execute on the creative vision as it pertains to VFX, and defined best practices/style guides for fellow artists.
 - **Gameplay Effects and Player Feedback**
