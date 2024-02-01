@@ -53,7 +53,7 @@ Example of work tasks:
 
 **Visual Effects Artist** @ [EA DICE](https://www.dice.se) *(2015 - 2017)*
 
-[Battlefield 1](https://www.youtube.com/watch?v=c7nRTF2SowQ) | [Star Wars: Battlefront](https://www.youtube.com/watch?v=J48gd0GZGWk)
+[Battlefield 1](https://www.youtube.com/watch?v=c7nRTF2SowQ) / [Star Wars: Battlefront](https://www.youtube.com/watch?v=J48gd0GZGWk)
 
 Example of work tasks:  
 
