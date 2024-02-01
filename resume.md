@@ -63,17 +63,17 @@ As sole VFX artist on Just Cause 4, I was reponsible for authoring, implementing
 
 ## Education
 
-**8-week traditional art course**
+**8-week traditional art course** <br />
 [Kline Academy of Fine Arts](https://www.klineacademy.com) - Los Angeles, CA *(2024)*
 
-**Vocational Degree in Realtime 3D Graphics**
+**Vocational Degree in Realtime 3D Graphics** <br />
 [Futuregames](https://futuregames.se) - Stockholm, Sweden *(2014 - 2016)*
 
-**Vocational Degree in Digital Art**
+**Vocational Degree in Digital Art** <br />
 [Nackademin Yrkeshögskola](https://nackademin.se) - Nacka, Sweden *(2012 - 2014)*
 
 ## Languages
 
-**English**: Native
-**Swedish**: Native
-**Japanese**: Basic
+**English**: Native <br />
+**Swedish**: Native <br />
+**Japanese**: Basic <br />
