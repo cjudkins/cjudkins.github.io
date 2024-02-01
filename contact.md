@@ -1,3 +1,7 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
 # Contact
 
 I'm based in Los Angeles, California. I'm open to local in-person and remote opportunities.
