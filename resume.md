@@ -17,7 +17,7 @@ permalink: /resume/
 - **Visual Development**
 	- I've collaborated with art directors to find and execute on the creative vision as it pertains to VFX, and defined best practices/style guides for fellow artists.
 - **Gameplay Effects and Player Feedback**
-	- I pride myself on my ability to design effects that communicate gameplay clearly and intuitively
+	- I pride myself on my ability to design effects that communicate gameplay clearly and intuitively.
 - **Cross-Discipline Collaboration and Alignment**
 	- I work with animators, designers, engineers, and sound designers to find the best approach to a problem. I've also established project-wide working agreements to make collaboration as seamless as possible.
 - **Mentoring and Team Growth**
@@ -43,12 +43,12 @@ permalink: /resume/
 **Visual Effects Artist** @ [Avalanche Studios](https://www.avalanchestudios.com) *(2017 - 2019)* <br />
 [Just Cause 4](https://www.youtube.com/watch?v=Lfek7Kcq16g)
 
-As sole VFX artist on Just Cause 4, I was reponsible for authoring, implementing, optimizing, and troubleshooting effects across the game. During production we migrated to a completely new GPU-based particle backend, so I was heavily involved in mitigating risks and helping make sure that the transition was as frictionless as possible.  
+As sole VFX artist on Just Cause 4, I was reponsible for authoring, implementing, optimizing, and troubleshooting effects across the game. During production we migrated to a completely new GPU-based particle backend, where I led the effort in mitigating risks and making sure that the transition was as frictionless as possible.  
 
 - Authored and implemented visual effects related to vehicles, weaponry, traversal, weather, player experience, and cinematics  
 - Worked with engineers to identify, design, and plan out necessary tech to tackle technical challenges  
 - Migrated the VFX texture authoring pipeline from 3ds max/FumeFX to Houdini  
-- Optimized effects to within strict processing and memory budgets while retaining visuals at extreme view distances for multiple platformsl
+- Optimized effects to within strict processing and memory budgets while retaining visuals at extreme view distances for multiple platforms
 
 **Visual Effects Artist** @ [EA DICE](https://www.dice.se) *(2015 - 2017)* <br />
 [Battlefield 1](https://www.youtube.com/watch?v=c7nRTF2SowQ) / [Star Wars: Battlefront](https://www.youtube.com/watch?v=J48gd0GZGWk)
@@ -58,6 +58,31 @@ As sole VFX artist on Just Cause 4, I was reponsible for authoring, implementing
 - Used Houdini to simulate assets for use in-engine  
 - Scripted tools and automated workflows with Python  
 - Optimized effects within strict processing and memory budgets while retaining identical visuals for multiple platforms
+
+## ⌨️ Technical Proficencies
+
+**Primary Software** *(what I use on a day-to-day basis)*
+
+- Unreal Engine 5
+- Blender
+- Procreate
+
+**Use-Case Software** *(situational tools)*
+
+- Maya
+- Zbrush
+- Houdini
+- Photoshop
+- Substance Designer
+- Procreate Dreams
+
+**Coding and Scripting**
+
+- Unreal Blueprint
+- Unreal Material Editor
+- Python
+- Lua
+- C#
 
 ## 📚 Education
 
