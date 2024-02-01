@@ -3,7 +3,6 @@ layout: page
 title: Résumé
 permalink: /resume/
 ---
-# Résumé
 
 ## Chris Judkins
 
