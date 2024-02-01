@@ -36,9 +36,9 @@ Unannounced Projects/R&D
 
 - Authored effects for player (abilities, combat states, character and screen effects), monsters and bosses (abilities, character, death states) and open-world features (PvP, events, quests, dungeons)  
 - Worked closely with game designers, animators, gameplay engineers, and sound designers to collaborate and iterate on features and assets  
-- Worked closely with tools engineers to identify issues in workflow, and propose editor improvements  
-- Worked closely with tech artists and rendering/engine engineers to ensure that our work was performant  
-- Collaborated with, mentored, and onboarded team members
+- Identified workflow issues and facilitated editor improvements  
+- Worked with tech artists and rendering/engine engineers to ensure that our work was performant  
+- Actively participated in hiring, onboarding, and mentoring team members
 
 **Visual Effects Artist** @ [Avalanche Studios](https://www.avalanchestudios.com) *(2017 - 2019)*
 
