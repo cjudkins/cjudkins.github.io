@@ -3,11 +3,11 @@ h1 {
 }
 
 h2 {
-    color:#8ac4f4;
+    color:#c69eff;
 } 
 
 h3 {
-    color:#c69eff;
+    color:#8ac4f4;
 }
 
 b, strong {
@@ -15,7 +15,9 @@ b, strong {
 }
 
 i, em {
-    color:#c69eff;
+    color:#fabe58;
 }
 
-$dm-background-color:      #0f0f12 !default;
+body {
+    background-color:#0f0f12;
+}
