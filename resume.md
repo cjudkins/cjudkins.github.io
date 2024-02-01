@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Chris Judkins
 
-[Email](mailto:mail@cjudkins.com) / [LinkedIn](https://www.linkedin.com/in/chrisjudkins) / [Vimeo](https://www.vimeo.com/chrisjudkins) / [IMDb](https://www.imdb.com/name/nm9874493/)
+[📩](mailto:mail@cjudkins.com) / [LinkedIn](https://www.linkedin.com/in/chrisjudkins) / [Vimeo](https://www.vimeo.com/chrisjudkins) / [IMDb](https://www.imdb.com/name/nm9874493/)
 
 *Experienced Visual Effects Artist and mentor based in Los Angeles, specialized in:*
 
@@ -21,7 +21,7 @@ permalink: /resume/
 - **Cross-Discipline Collaboration and Alignment**
 	- I work with animators, designers, engineers, and sound designers to find the best approach to a problem. I've also established project-wide working agreements to make collaboration as seamless as possible.
 
-## Career Experience 
+## 💼 Career Experience 
 
 **Senior Visual Effects Artist** @ [Riot Games](https://www.riotgames.com) *(2022 - 2024)*
 
@@ -61,7 +61,7 @@ As sole VFX artist on Just Cause 4, I was reponsible for authoring, implementing
 - Scripted tools and automated workflows with Python  
 - Optimized effects within strict processing and memory budgets while retaining identical visuals for multiple platforms
 
-## Education
+## 📚 Education
 
 **8-week traditional art course** <br />
 [Kline Academy of Fine Arts](https://www.klineacademy.com) - Los Angeles, CA *(2024)*
@@ -72,8 +72,8 @@ As sole VFX artist on Just Cause 4, I was reponsible for authoring, implementing
 **Vocational Degree in Digital Art** <br />
 [Nackademin Yrkeshögskola](https://nackademin.se) - Nacka, Sweden *(2012 - 2014)*
 
-## Languages
+## 💬 Languages
 
-**English**: Fluent <br />
-**Swedish**: Fluent <br />
-**Japanese**: Basic <br />
+🇺🇸**English**: Fluent <br />
+🇸🇪**Swedish**: Fluent <br />
+🇯🇵**Japanese**: Basic <br />
