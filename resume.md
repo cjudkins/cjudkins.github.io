@@ -99,4 +99,4 @@ As sole VFX artist on Just Cause 4, I was reponsible for authoring, implementing
 
 🇺🇸**English**: Fluent <br />
 🇸🇪**Swedish**: Fluent <br />
-🇵**Japanese**: Basic <br />
+🇯🇵**Japanese**: Basic <br />
