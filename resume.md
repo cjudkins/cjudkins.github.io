@@ -43,7 +43,7 @@ permalink: /resume/
 **Visual Effects Artist** @ [Avalanche Studios](https://www.avalanchestudios.com) *(2017 - 2019)* <br />
 [Just Cause 4](https://www.youtube.com/watch?v=Lfek7Kcq16g)
 
-As sole VFX artist on Just Cause 4, I was reponsible for authoring, implementing, optimizing, and troubleshooting effects across the game. During production we migrated to a completely new GPU-based particle backend, where I led the effort in mitigating risks and making sure that the transition was as frictionless as possible.  
+As sole VFX artist on Just Cause 4, I was reponsible for authoring, implementing, optimizing, and troubleshooting effects across the game. During production we migrated to a completely new GPU-based particle backend, where I led the effort in mitigating risks and making sure that the transition was as frictionless as possible. 
 
 - Authored and implemented visual effects related to vehicles, weaponry, traversal, weather, player experience, and cinematics  
 - Worked with engineers to identify, design, and plan out necessary tech to tackle technical challenges  
