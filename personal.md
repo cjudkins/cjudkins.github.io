@@ -8,13 +8,13 @@ permalink: /personal/
 
 ## Tools & Automation
 
-### Unreal Effect Viewer
+### Effect Viewer (Unreal Engine)
 
 The previewing capabilities of Niagara are limited, especially when working with gameplay VFX that needs to be evaluated in an in-game context. 
 
 To simplify iterating on gameplay VFX, I built a previewing tool that lets the artist control the playback in a controlled manner. And since the tool is operated using Play In Editor, you know that the effect is being rendered correctly. 
  
-### NodeFX 
+### NodeFX (Houdini/Unity)
 
 As a proof of concept, I came up with a way to let artists create Particle Systems in Unity through the use of VOP networks in Houdini. This let the artist set up sophisticated relationships and behaviors not otherwise possible in Shuriken
 
